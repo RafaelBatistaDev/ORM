@@ -1,4 +1,5 @@
 # BlogManager - Projeto ORM
+![Swagger UI](assets/swagger-ui.png)
 
 API de administração de blog desenvolvida para estudos de **.NET 10** e **Entity Framework Core**.
 
